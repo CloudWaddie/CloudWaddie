@@ -7,4 +7,4 @@
 - 😄 Pronouns: He/Him
 
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/sirhaxalot.png)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/sirhaxalot.png)(https://tryhackme.com/p/sirhaxalot)
