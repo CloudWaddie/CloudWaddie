@@ -5,4 +5,4 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: NONE YET
 - 😄 Pronouns: He/Him
-<script src="https://tryhackme.com/badge/3278020"></script>
+[https://tryhackme-badges.s3.amazonaws.com/sirhaxalot.png]
