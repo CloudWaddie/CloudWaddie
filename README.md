@@ -8,3 +8,7 @@
 - 🐱‍💻 Current Hobby: Reverse engineering google AI sites to unlock hiden features.
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/sirhaxalot.png)](https://tryhackme.com/p/sirhaxalot)
+
+cloudwaddie.github.io
+
+Def not a leaking blog...
