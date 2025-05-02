@@ -9,6 +9,4 @@
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/sirhaxalot.png)](https://tryhackme.com/p/sirhaxalot)
 
-https://cloudwaddie.github.io/
-
-Def not a leaking blog...
+Leaks some stuff to @legit_api who is on X and runs the "Dev Mode" server
