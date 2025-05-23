@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a modding api for minecraft bedrock, emulating minecraft java apis like fabric and forge. BUT FIRST I am making a proxy for minecraft edu to force it to connect to a minecraft bedrock or geyser enabled java server. Follow me and watch this to know when its done.
+- 🔭 I’m currently working on a feature tracker for AI news [here](https://cloudwaddie.hackclub.app)
 - 🌱 I’m currently learning advanced hacking skills
 - 🤔 I’m looking for help with creating a LLM.
 - 💬 Ask me about anything.
@@ -8,5 +8,3 @@
 - 🐱‍💻 Current Hobby: Reverse engineering google AI sites to unlock hiden features.
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/sirhaxalot.png)](https://tryhackme.com/p/sirhaxalot)
-
-Leaks some stuff to @legit_api who is on X and runs the "Dev Mode" server
