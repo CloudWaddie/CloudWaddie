@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced hacking skills
 - 🤔 I’m looking for help with creating a LLM.
 - 💬 Ask me about anything.
-- 📫 How to reach me: NONE YET
+- 📫 How to reach me: contact+github@cloudwaddie.com
 - 😄 Pronouns: He/Him
 - 🐱‍💻 Current Hobby: Reverse engineering Google AI sites to unlock hidden features.
 
