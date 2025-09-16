@@ -1,11 +1,11 @@
 ### Hi there 👋
 - 🔭 I’m currently working on learning game hacking.
 - 🌱 I’m currently learning advanced hacking skills
-- 🤔 I’m looking for help with creating a LLM.
+- 🤔 I’m looking for help with creating an LLM.
 - 💬 Ask me about anything.
 - 📫 How to reach me: contact+github@cloudwaddie.com
 - 😄 Pronouns: He/Him
-- 🐱‍💻 Current Hobby: Reverse engineering Google AI sites to unlock hidden features.
+- 🐱‍💻 Current Hobby: Reverse engineering Minecraft and making a client for it. Check my bio for information...
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/sirhaxalot.png)](https://tryhackme.com/p/sirhaxalot)
 
