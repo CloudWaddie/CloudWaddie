@@ -17,4 +17,5 @@ Help an aspiring student and developer out (you'll get special access to new pro
 
 
 <img src="https://raw.githubusercontent.com/cloudwaddie/cloudwaddie/output/snake.svg" alt="Snake animation" />
-<img src="https://github-readme-stats.vercel.app/api?username=cloudwaddie&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+
+try a cool new app: https://www.huntrfinds.info/
