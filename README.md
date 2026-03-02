@@ -12,9 +12,10 @@ cheap services: https://cloudwaddie.sell.app/
 Help an aspiring student and developer out (you'll get special access to new projects too!):
 
 https://nowpayments.io/donation/cloudwaddie
+
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/sirhaxalot.png)](https://tryhackme.com/p/sirhaxalot)
 
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
 <img src="https://raw.githubusercontent.com/cloudwaddie/cloudwaddie/output/snake.svg" alt="Snake animation" />
 
 try a cool new app: https://www.huntrfinds.info/
