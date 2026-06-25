@@ -1,5 +1,3 @@
-cheap services: https://cloudwaddie.sell.app/
-
 ### Hi there 👋
 - 🔭 I’m currently working on learning game hacking.
 - 🌱 I’m currently learning advanced hacking skills
