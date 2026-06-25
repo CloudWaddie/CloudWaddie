@@ -16,4 +16,4 @@ https://nowpayments.io/donation/cloudwaddie
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
 <img src="https://raw.githubusercontent.com/cloudwaddie/cloudwaddie/output/snake.svg" alt="Snake animation" />
 
-try a cool new app: https://www.huntrfinds.info/
+founder of [Fazackerley Labs](https://fzkly.tech)
