@@ -7,13 +7,9 @@
 - 😄 Pronouns: He/Him
 - 🐱‍💻 Current Hobby: Reverse engineering Minecraft and making a client for it. Check my bio for information...
 
-Help an aspiring student and developer out (you'll get special access to new projects too!):
-
-https://nowpayments.io/donation/cloudwaddie
+https://ai.cloudwaddie.com/
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/sirhaxalot.png)](https://tryhackme.com/p/sirhaxalot)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
 <img src="https://raw.githubusercontent.com/cloudwaddie/cloudwaddie/output/snake.svg" alt="Snake animation" />
-
-founder of [Fazackerley Labs](https://fzkly.tech)
