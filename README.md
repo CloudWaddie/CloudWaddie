@@ -1,15 +1,9 @@
-### Hi there 👋
-- 🔭 I’m currently working on learning game hacking.
-- 🌱 I’m currently learning advanced hacking skills
-- 🤔 I’m looking for help with creating an LLM.
-- 💬 Ask me about anything.
-- 📫 How to reach me: contact+github@cloudwaddie.com
-- 😄 Pronouns: He/Him
-- 🐱‍💻 Current Hobby: Reverse engineering Minecraft and making a client for it. Check my bio for information...
+# HELLO!
 
-https://ai.cloudwaddie.com/
+i make cool stuff like cloud client!
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/sirhaxalot.png)](https://tryhackme.com/p/sirhaxalot)
+check my site for my pgp key
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
 <img src="https://raw.githubusercontent.com/cloudwaddie/cloudwaddie/output/snake.svg" alt="Snake animation" />
